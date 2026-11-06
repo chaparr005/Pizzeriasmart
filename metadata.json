@@ -1,0 +1,8 @@
+{
+  "name": "PIZZASMART - Pizzería Artesanal & Cotizador Interactivo",
+  "description": "Pizzería artesanal moderna e interactiva con menú visual en pesos colombianos (COP), constructor interactivo de pizzas, motor de cotización de catering y asistente Pizzaiolo Smart AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
